@@ -23,6 +23,7 @@
   "homepage": "https://github.com/egamboa/tdd-training#readme",
   "devDependencies": {
     "co-mocha": "^1.2.0",
-    "mocha": "^3.4.2"
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
   }
 }
