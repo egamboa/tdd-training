@@ -25,5 +25,8 @@
     "co-mocha": "^1.2.0",
     "mocha": "^3.4.2",
     "should": "^11.2.1"
+  },
+  "dependencies": {
+    "co-fs": "^1.2.0"
   }
 }
