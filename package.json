@@ -4,7 +4,7 @@
   "description": "TDD training for stateside",
   "main": "index.js",
   "scripts": {
-    "test": "NODE_ENV=test ./node_modules/.bin/mocha --harmony"
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
